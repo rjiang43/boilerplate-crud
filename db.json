@@ -1,0 +1,21 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "1 Sub Special",
+      "id": 1
+    },
+    {
+      "title": "Metro Boomin",
+      "description": "Want some more",
+      "userId": "104121950123061537938",
+      "id": 2
+    },
+    {
+      "title": "Tay Keith",
+      "description": "Cook these nuggets up",
+      "userId": "104121950123061537938",
+      "id": 4
+    }
+  ]
+}
